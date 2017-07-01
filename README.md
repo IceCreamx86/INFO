@@ -1,5 +1,4 @@
 # INFO
-Dox_script
 
 What is Dox-Script:
  
